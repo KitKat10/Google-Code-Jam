@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Round3\C.cs" />
     <None Include="QualificationRound\A.cs" />
     <None Include="QualificationRound\B.cs" />
     <None Include="QualificationRound\C.cs" />
@@ -59,7 +60,7 @@
     <None Include="Round2\C.cs" />
     <None Include="Round2\D.cs" />
     <None Include="Round3\A.cs" />
-    <Compile Include="Round3\B.cs" />
+    <None Include="Round3\B.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
