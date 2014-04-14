@@ -41,9 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="APAC-Semifinal\A.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="Round3\C.cs" />
-    <Compile Include="Round3\D.cs" />
+    <None Include="Round3\D.cs" />
     <None Include="QualificationRound\A.cs" />
     <None Include="QualificationRound\B.cs" />
     <None Include="QualificationRound\C.cs" />
