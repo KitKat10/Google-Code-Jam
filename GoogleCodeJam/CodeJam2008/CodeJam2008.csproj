@@ -43,7 +43,8 @@
   <ItemGroup>
     <None Include="APAC-Semifinal\A.cs" />
     <None Include="APAC-Semifinal\B.cs" />
-    <Compile Include="APAC-Semifinal\C.cs" />
+    <None Include="APAC-Semifinal\C.cs" />
+    <Compile Include="APAC-Semifinal\D.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="Round3\C.cs" />
     <None Include="Round3\D.cs" />
