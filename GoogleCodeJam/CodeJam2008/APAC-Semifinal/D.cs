@@ -63,7 +63,12 @@ public class Plagiarism
 
     private void read()
     {
-        init();
+        for (int i = 1; i < SIZE; i++)
+        {
+            t1[i].Clear();
+            t2[i].Clear();
+        }
+
         int v1 = 0, v2 = 0;
         N = int.Parse(input.ReadLine());
         for (int i = 1; i < N; i++)
