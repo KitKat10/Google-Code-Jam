@@ -48,7 +48,8 @@
     <None Include="APAC-Semifinal\D.cs" />
     <None Include="AMER-Semifinal\B.cs" />
     <None Include="AMER-Semifinal\C.cs" />
-    <Compile Include="AMER-Semifinal\D.cs" />
+    <None Include="AMER-Semifinal\D.cs" />
+    <Compile Include="EMEA-Semifinal\A.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="Round3\C.cs" />
     <None Include="Round3\D.cs" />
