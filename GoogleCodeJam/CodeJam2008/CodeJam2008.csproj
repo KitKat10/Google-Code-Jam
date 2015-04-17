@@ -50,7 +50,8 @@
     <None Include="AMER-Semifinal\C.cs" />
     <None Include="AMER-Semifinal\D.cs" />
     <None Include="EMEA-Semifinal\A.cs" />
-    <Compile Include="EMEA-Semifinal\B.cs" />
+    <None Include="EMEA-Semifinal\B.cs" />
+    <Compile Include="EMEA-Semifinal\C.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="Round3\C.cs" />
     <None Include="Round3\D.cs" />
